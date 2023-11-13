@@ -6,7 +6,7 @@ import {
           } from '../ulits/interact'
 
 
-export default function Mint(){
+export default function Home(){
 
   const [walletAddress, setWalletAddress] = useState('');
   const [esTokens , setESTokens] = useState([]);
